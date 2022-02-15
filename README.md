@@ -1,2 +1,2 @@
-# Number-Incremental
+# Number Incremental
 Incremental game
